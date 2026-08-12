@@ -1,0 +1,10 @@
+[gd_scene format=3]
+
+[node name="Main" type="Control"]
+
+[node name="Label" type="Label" parent="."]
+offset_right = 480.0
+offset_bottom = 80.0
+text = "godot-addons-example-project"
+horizontal_alignment = 1
+vertical_alignment = 1
