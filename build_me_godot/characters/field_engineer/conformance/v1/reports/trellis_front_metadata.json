@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "provider": "trellis",
+  "ok": true,
+  "input": "/workspace/project/build_me_godot/characters/field_engineer/conformance/v1/provider_inputs/front_trellis_rgba.png",
+  "output": "/workspace/project/build_me_godot/characters/field_engineer/conformance/v1/proxy_meshes/trellis_front.glb",
+  "trellis_root": "/opt/TRELLIS",
+  "model": "/models/TRELLIS-image-large",
+  "seed": 1,
+  "sparse_steps": 12,
+  "slat_steps": 12,
+  "texture_size": 1024,
+  "simplify": 0.95,
+  "hf_hub_offline": "1",
+  "seconds": 23.540135194998584
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "path": "build_me_godot/characters/field_engineer/conformance/v1/animated/trellis_front_quaternius_rig_test.glb",
+    "active_action": "Animation",
+    "nla_tracks": 1,
+    "action_count": 1,
+    "actions": [
+      "Animation"
+    ],
+    "deformation_delta_0_16": 0.09180110651520404,
+    "frame_start": 1,
+    "frame_end": 250,
+    "mesh_count": 2,
+    "skinned_mesh_count": 1,
+    "armature_bones": 65
+  },
+  {
+    "path": "build_me_godot/characters/field_engineer/conformance/v1/animated/hunyuan_front_quaternius_rig_test.glb",
+    "active_action": "Animation",
+    "nla_tracks": 1,
+    "action_count": 1,
+    "actions": [
+      "Animation"
+    ],
+    "deformation_delta_0_16": 0.09591577297592588,
+    "frame_start": 1,
+    "frame_end": 250,
+    "mesh_count": 3,
+    "skinned_mesh_count": 1,
+    "armature_bones": 65
+  }
+]

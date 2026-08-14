@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "provider": "hunyuan3d-2.1",
+  "ok": true,
+  "input": "/workspace/project/build_me_godot/characters/field_engineer/conformance/v1/provider_inputs/front_trellis_rgba.png",
+  "output": "/workspace/project/build_me_godot/characters/field_engineer/conformance/v1/proxy_meshes/hunyuan_front.glb",
+  "repo": "/opt/Hunyuan3D-2.1",
+  "repo_commit": "82920d643c0dc2f7bfd7255f45f62d386edfe60c",
+  "model": "tencent/Hunyuan3D-2.1",
+  "torch": "2.8.0+cu129",
+  "cuda": "12.9",
+  "peak_vram_mib": 7841.765625,
+  "seconds": 73.13002090900409
+}

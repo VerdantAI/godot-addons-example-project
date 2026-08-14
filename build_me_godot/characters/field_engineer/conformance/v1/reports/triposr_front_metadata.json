@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "provider": "container_triposr",
+  "ok": true,
+  "input": "/home/buddha/verdant/build-me-godot/build_me_godot/characters/field_engineer/references/v1/front.png",
+  "output": "/home/buddha/verdant/build-me-godot/build_me_godot/characters/field_engineer/conformance/v1/proxy_meshes/triposr_front.glb",
+  "model": "/models/triposr",
+  "mc_resolution": 256,
+  "chunk_size": 4096,
+  "bake_texture": false,
+  "seconds": 26.1215034880006
+}

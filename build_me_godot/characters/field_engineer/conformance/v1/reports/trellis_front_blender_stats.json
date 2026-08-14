@@ -1,0 +1,30 @@
+{
+  "input": "/home/buddha/verdant/build-me-godot/build_me_godot/characters/field_engineer/conformance/v1/proxy_meshes/trellis_front.glb",
+  "preview": "/tmp/trellis_front_compare_preview.png",
+  "bounds_min": [
+    -0.35193538665771484,
+    -0.09858325868844986,
+    -0.5000474452972412
+  ],
+  "bounds_max": [
+    0.355253130197525,
+    0.11458727717399597,
+    0.4989718794822693
+  ],
+  "dimensions": [
+    0.7071884870529175,
+    0.21317052841186523,
+    0.9990193247795105
+  ],
+  "mesh_count": 1,
+  "total_vertices": 5430,
+  "total_polygons": 6898,
+  "mesh_stats": [
+    {
+      "object": "geometry_0",
+      "vertices": 5430,
+      "polygons": 6898,
+      "materials": 1
+    }
+  ]
+}

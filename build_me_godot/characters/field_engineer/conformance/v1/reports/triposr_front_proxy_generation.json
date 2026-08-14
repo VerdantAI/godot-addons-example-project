@@ -1,0 +1,22 @@
+{
+  "automatic_downloads_allowed": false,
+  "command": "/home/buddha/verdant/build-me-godot/utils/run-container-triposr.sh",
+  "commercial_use": true,
+  "exit_code": 0,
+  "generated_at": "2026-08-13T23:00:18",
+  "input": {
+    "path": "res://build_me_godot/characters/field_engineer/references/v1/front.png",
+    "view": "front"
+  },
+  "license_record": "TripoSR",
+  "output_summary": "",
+  "outputs": {
+    "metadata": "res://build_me_godot/characters/field_engineer/conformance/v1/reports/triposr_front_metadata.json",
+    "proxy_mesh": "res://build_me_godot/characters/field_engineer/conformance/v1/proxy_meshes/triposr_front.glb"
+  },
+  "provider_id": "triposr",
+  "reference_version": "v1",
+  "role": "proxy_reconstruction",
+  "schema_version": 1,
+  "status": "generated"
+}

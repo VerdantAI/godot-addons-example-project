@@ -1,0 +1,30 @@
+{
+  "input": "/home/buddha/verdant/build-me-godot/build_me_godot/characters/field_engineer/conformance/v1/proxy_meshes/hunyuan_front.glb",
+  "preview": "/tmp/hunyuan_front_preview.png",
+  "bounds_min": [
+    -0.6894193291664124,
+    -0.2037259191274643,
+    -0.9996036291122437
+  ],
+  "bounds_max": [
+    0.6836318969726562,
+    0.20492519438266754,
+    0.9941005706787109
+  ],
+  "dimensions": [
+    1.3730511665344238,
+    0.40865111351013184,
+    1.9937041997909546
+  ],
+  "mesh_count": 1,
+  "total_vertices": 167404,
+  "total_polygons": 334828,
+  "mesh_stats": [
+    {
+      "object": "geometry_0",
+      "vertices": 167404,
+      "polygons": 334828,
+      "materials": 0
+    }
+  ]
+}

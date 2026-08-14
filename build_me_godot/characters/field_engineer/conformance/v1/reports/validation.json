@@ -1,0 +1,21 @@
+{
+  "checks": [
+    {
+      "id": "conformance.source_meshes_immutable",
+      "status": "pass"
+    },
+    {
+      "id": "conformance.proxy_mesh_reference_only",
+      "status": "pass"
+    },
+    {
+      "detected": "neutral_a_pose_30deg_v1",
+      "expected": "neutral_a_pose_30deg_v1",
+      "id": "conformance.pose_contract",
+      "status": "pass"
+    }
+  ],
+  "review_notes": [],
+  "schema_version": 1,
+  "status": "pass"
+}

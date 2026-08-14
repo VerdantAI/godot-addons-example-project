@@ -1,0 +1,26 @@
+{
+  "action": "Rig_Test",
+  "frame_start": 0,
+  "frame_midpoint": 16,
+  "mesh_deformation_delta": {
+    "Generated_geometry_0": 0.09591565463771592
+  },
+  "meshes": [
+    {
+      "name": "Generated_geometry_0",
+      "vertices": 167404,
+      "polygons": 334828,
+      "materials": 0,
+      "vertex_groups": 65,
+      "modifiers": [
+        "ARMATURE"
+      ]
+    }
+  ],
+  "input": "build_me_godot/characters/field_engineer/conformance/v1/proxy_meshes/hunyuan_front.glb",
+  "output": "build_me_godot/characters/field_engineer/conformance/v1/animated/hunyuan_front_quaternius_rig_test.glb",
+  "template": "/home/buddha/verdant/build-me-godot/build_me_godot/blender/assets/library/quaternius_humanoid_bases_with_animations.blend",
+  "armature": "QTR_Male_Rig",
+  "weight_donor": "QTR_Male_SuperHero_Male",
+  "method": "quaternius_donor_weight_transfer"
+}
